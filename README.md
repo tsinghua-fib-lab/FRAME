@@ -1,7 +1,7 @@
 # FRAME
 The code and datasets of paper ”Learning Fine-grained User Interests for Micro-video Recommendation“ (SIGIR 2023)
 
-Dataset link：[https://www.dropbox.com/sh/9kq2vhus98ia5ov/AADZwY-WeptFOGScGGWAByP-a?dl=0](https://www.dropbox.com/scl/fi/lgw3riawwuoeqa3ebxrbf/data.rar?rlkey=0lbpu2x7n388sbystdl9apodc&dl=0)
+Dataset link：https://www.dropbox.com/scl/fo/f9relupkrrwxzwuk8dvck/h?rlkey=qd7ho1ilwbyqnl3tgmbzok11j&dl=0
 ## Dataset description 
 The detailed explanations of datasets are as follows:
 ```
